@@ -1,2 +1,4 @@
 # Ignorar archivos CSV generados
 *.csv
+data-python/ag-code.py
+data-python/optimized_code.py
