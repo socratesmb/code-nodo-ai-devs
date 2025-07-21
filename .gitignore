@@ -2,3 +2,9 @@
 *.csv
 data-python/ag-code.py
 data-python/optimized_code.py
+tetris/ag-style.css
+tetris/ag-script.js
+tetris/index-2.html
+.gitignore
+tetris/style-2.css
+tetris/script-2.js

@@ -22,11 +22,10 @@ body {
     height: 600px;
     background-color: #34495e;
     border: 5px solid #ecf0f1;
-    /* ¿Falta algo aquí para contener las piezas? */
 }
 
 .game-board div {
-    /* Las celdas se pintarán con JS */
+    
 }
 
 .game-info {
@@ -39,12 +38,9 @@ body {
     color: #f1c40f;
 }
 
-/* Colores de las piezas (Tetrominós) */
 .I { background-color: #3498db; } /* Azul */
 .O { background-color: #f1c40f; } /* Amarillo */
 .S { background-color: #2ecc71; } /* Verde */
 .Z { background-color: #e74c3c; } /* Rojo */
 .J { background-color: #e67e22; } /* Naranja */
-
-/* BUG 2: ¡Estas dos piezas tienen el mismo color! */
 .T, .L { background-color: #9b59b6; } /* Morado */
